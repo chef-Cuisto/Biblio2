@@ -1,1 +1,5 @@
-# Biblio2
+<<<<<<< HEAD
+Vos changements...
+=======
+Leurs changements...
+>>>>>>> nom-de-la-branche
