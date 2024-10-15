@@ -28,8 +28,7 @@
                 <li><a href="#">Fortinat POMBI</a></li>
                 <li><a href="#">HAGIL Taymiyya</a></li>
                 <li><a href="#">Leon Chepfer</a></li>
-                <li><a href="#">Rajit</a></li>
-                <li><a href="#">Quentin</a></li>
+                <li><a href="#">Rajit </a></li>
             </ul>
         </div>  
     </div>
